@@ -1,6 +1,4 @@
-import WeatherForecast from './WeatherForecast.css';
-import WeatherData from './WeatherData';
-import WeatherIcon from './WeatherIcon';
+import WeatherForecast from './WeatherForecast.jsx';
 
 const weatherForecasts = [
   {
